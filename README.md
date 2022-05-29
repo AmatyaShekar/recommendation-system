@@ -3,7 +3,7 @@
 ### Setup
 
 ```sh
-$ git clone https://github.com/dhemasree/Hema-engage.git
+$ git clone https://github.com/AmatyaShekar/recommendation-system.git
 ```
 
 Open terminal in the project folder.
